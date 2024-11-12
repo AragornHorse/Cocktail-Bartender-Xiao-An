@@ -10,3 +10,5 @@ Xiao-An is a Bartender made by Latent Diffusion model, he can generate abundant 
 + Cream: 0.30842703580856323, Cacao: 0.4142715632915497, Coffee-Infused Brandy: 0.2581225335597992, 
 + Dry Vermouth: 0.5517501831054688, Gin: 0.4397677779197693, 
 + Orange Curacao: 0.3228212594985962, sweet n' sour: 0.13259834051132202, Pineapple Juice: 0.2025356888771057, Black Rum: 0.14935241639614105, Cranberry Juice: 0.17718522250652313, 
+![Uploading 51da9173da971a41f78aa7e4d5c5b4f.jpg…]()
+
